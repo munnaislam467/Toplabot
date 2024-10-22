@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "MUNNA",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "MUNNA-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100094625323739",
+    "100001381266797"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100094625323739",
     ""
   ],
   "OWNER": ["100000959749712"], 
