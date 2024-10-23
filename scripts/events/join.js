@@ -66,7 +66,7 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER : 𝙼𝚄𝙽𝙽𝙰 
+DEVELOPER :  𝙼𝚄𝙽𝙽𝙰 
 
 🟣Facebook Account Link: 
 
