@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "MUNNA-BOT",
-  "PREFIX": "/",
+  "PREFIX": "$",
   "OPERATOR": [
     "100094625323739",
     "100001381266797"
